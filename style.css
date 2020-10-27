@@ -1,0 +1,97 @@
+
+
+
+body{
+	background: pink;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px
+}
+
+h1,h2,h3,h4,h5{
+		font-family: 'Abril Fatface', cursive;
+		color: rgb(30,30,30);
+}
+
+h2,h3,h4,h5{
+	font-size: 32px
+}
+h1{
+	font-size: 56px
+}
+
+.container{
+	width: 840px;
+	margin: 35px auto;
+}
+
+.banner{
+	margin-bottom: 20px;
+	text-align: center;
+	background: white;
+	border-radius: 10px;
+}
+
+.btn-black{
+	background-color: black;
+	padding: 20px 25px;
+	border-radius: 8px;
+	color: pink;
+}
+.phone{
+	margin-bottom: 20px;
+	text-align: center;
+	background: white;
+	border-radius: 10px;
+	margin-top: 23px;
+
+}
+#logo{
+	width: 200px; 
+	height: 200px;
+	border-radius: 50%;
+	margin-top: 23px;
+	margin-bottom: 23px;
+}
+	
+.photo{
+	width: 140px;
+	height: auto;
+	margin-bottom: 23px;
+}
+
+.img-circle{
+	border-radius: 50%
+}
+#me{;
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+}
+.otto{
+	margin-bottom: 20px;
+	text-align: center;
+	background: white;
+	border-radius: 10px;
+}
+
+.thesquare{
+	margin-bottom: 20px;
+	text-align: center;
+	background: white;
+	border-radius: 10px;
+}
+.social{
+	margin-bottom: 20px;
+	text-align: center;
+	background: white;
+	border-radius: 10px;
+}
+.recette{
+	text-align: left;
+}
+
+.carouselslide{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
